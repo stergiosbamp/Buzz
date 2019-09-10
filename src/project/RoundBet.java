@@ -11,7 +11,7 @@ import java.io.IOException;
  *  Η ΚΛΑΣΗ RoundBet ΑΝΑΦΕΡΕΤΑΙ ΣΤΟΝ ΓΥΡΟ ΠΟΝΤΑΡΙΣΜΑ ΚΑΙ ΚΛΗΡΟΝΟΜΕΙ 
  * ΑΠΟ ΤΗΝ ΜΗΤΡΙΚΗ ΚΛΑΣΗ Round. 
  *
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @
  * @version 1.0
  */
 public class RoundBet extends Round {

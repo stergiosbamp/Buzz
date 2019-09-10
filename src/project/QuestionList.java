@@ -14,7 +14,7 @@ import java.util.Random;
  * Περιεχει ως πεδία  μια λιστα με ολες τις ερωτησεις που 
  * υπαρχουν στο παιχνιδι.
  * 
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @
  * @version 1.0
  */
 public class QuestionList {

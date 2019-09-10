@@ -11,7 +11,7 @@ import java.io.IOException;
  *  Η ΚΛΑΣΗ RoundRightChoice ΑΝΑΦΕΡΕΤΑΙ ΣΤΟΝ ΓΥΡΟ ΣΩΣΤΗ ΑΠΑΝΤΗΣΗ ΚΑΙ ΚΛΗΡΟΝΟΜΕΙ 
  * ΑΠΟ ΤΗΝ ΜΗΤΡΙΚΗ ΚΛΑΣΗ Round. 
  *
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @
  * @version 1.0
  */
 public class RoundRightChoice extends Round {

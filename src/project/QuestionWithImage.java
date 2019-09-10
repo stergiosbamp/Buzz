@@ -13,7 +13,7 @@ import java.util.ArrayList;
  * δηλωνει το ονομα της εικονας που θα φορτωθει οταν παιχτει η συγκεκριμενη
  * ερωτηση
  *
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @
  * @version 1.0
  */
 public class QuestionWithImage extends Question {

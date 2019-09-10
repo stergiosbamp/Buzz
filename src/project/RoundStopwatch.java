@@ -11,7 +11,7 @@ import java.io.IOException;
  * Η ΚΛΑΣΗ RoundStopTime ΑΝΑΦΕΡΕΤΑΙ ΣΤΟΝ ΓΥΡΟ Σταματησε το Χρονομετρο ΚΑΙ
  * ΚΛΗΡΟΝΟΜΕΙ ΑΠΟ ΤΗΝ ΜΗΤΡΙΚΗ ΚΛΑΣΗ Round.
  *
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @ 
  * @version 1.0
  */
 public class RoundStopwatch extends Round {

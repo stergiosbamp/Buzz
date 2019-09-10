@@ -19,7 +19,7 @@ import javax.swing.Timer;
  * H κλαση αυτη αναφερεται στο graphical user interface οσον αφορα το παιχνιδι
  * για 2 παικτες.
  *
- * @author Μπαμπάκης Αστέριος - Τσιολάκη Ελένη
+ * @
  * @version 1.0
  *
  */
